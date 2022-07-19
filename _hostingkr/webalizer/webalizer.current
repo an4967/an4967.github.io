@@ -1,0 +1,516 @@
+# Webalizer V2.23-05 Incremental Data - 05/16/2021 23:34:59
+2021 5 16 23 34 59
+1739 0 93 0 6 45 399835 1639 472 0
+7 4 26 1 16
+112 0 26352 6 101 27
+101 0 22912 6 100 25
+101 0 23164 5 98 22
+117 0 26988 11 104 33
+102 0 23390 6 101 29
+114 0 26114 6 98 28
+108 0 24803 9 101 33
+107 0 24570 8 101 34
+108 0 24881 9 104 30
+106 0 24387 7 102 30
+110 0 25202 12 109 35
+106 0 24442 7 100 33
+125 0 28899 7 111 28
+108 0 24527 6 106 32
+111 0 25589 9 103 31
+103 0 23615 7 100 24
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+67 0 15365 65
+90 0 21363 76
+77 0 17618 68
+72 0 16548 67
+69 0 15821 69
+69 0 15906 69
+67 0 15377 64
+79 0 18187 73
+70 0 15805 69
+68 0 15576 67
+65 0 14656 65
+79 0 18191 72
+69 0 15821 66
+78 0 18083 64
+92 0 21324 80
+68 0 15572 68
+73 0 16787 68
+68 0 15624 68
+74 0 17053 67
+69 0 15831 66
+70 0 16079 67
+65 0 14885 65
+70 0 16092 66
+71 0 16271 70
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1739
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+# End Of Table - urls
+# -sites- (monthly)
+44.242.172.218
+0 1 0 229 1 1620609567
+-
+66.249.68.62
+0 1 0 239 0 0
+-
+82.165.185.18
+0 1 0 263 0 0
+-
+92.118.160.1
+0 1 0 229 1 1619967991
+-
+172.104.233.92
+0 11 0 2628 1 1620917498
+-
+185.25.48.30
+0 2 0 458 1 1620616932
+-
+34.77.162.31
+0 1 0 229 1 1620850040
+-
+54.213.121.82
+0 1 0 229 1 1620559064
+-
+54.36.148.37
+0 1 0 239 0 0
+-
+61.12.67.132
+0 1 0 241 0 0
+-
+34.211.168.142
+0 2 0 469 1 1621077610
+-
+34.220.5.78
+0 1 0 229 1 1619831846
+-
+132.145.210.197
+0 3 0 687 3 1620717517
+-
+188.166.188.124
+0 1 0 229 1 1619982905
+-
+54.191.202.172
+0 1 0 240 0 0
+-
+161.35.154.24
+0 1 0 241 0 0
+-
+185.119.81.108
+0 1 0 229 1 1620769312
+-
+5.188.62.214
+0 1 0 229 1 1619835470
+-
+199.244.88.132
+0 2 0 0 2 1620289791
+-
+176.31.244.49
+0 2 0 462 1 1620842883
+-
+100.21.218.158
+0 1 0 229 1 1620761023
+-
+34.214.19.137
+0 2 0 469 1 1620387348
+-
+35.162.151.234
+0 1 0 229 1 1620558734
+-
+54.36.148.182
+0 1 0 239 0 0
+-
+216.19.195.28
+0 1 0 229 1 1619854315
+-
+156.146.63.138
+0 1 0 0 1 1620958912
+-
+13.48.53.51
+0 4 0 965 1 1620679178
+-
+154.27.72.117
+0 4 0 980 1 1621064883
+-
+172.105.82.171
+0 11 0 2628 1 1620917497
+-
+89.163.154.91
+0 1 0 281 1 1620667038
+-
+34.251.241.226
+0 3 0 716 1 1620406095
+-
+52.12.248.124
+0 2 0 469 1 1620041596
+-
+3.8.150.181
+0 2 0 458 1 1620749686
+-
+185.254.31.34
+0 2 0 466 0 0
+-
+207.46.13.44
+0 1 0 239 0 0
+-
+3.8.12.221
+0 2 0 458 1 1620179627
+-
+34.77.162.20
+0 1 0 229 1 1620496728
+-
+159.89.160.132
+0 1 0 241 0 0
+-
+51.89.227.251
+0 4 0 916 2 1621155661
+-
+54.184.200.161
+0 1 0 229 1 1620869273
+-
+89.45.46.91
+0 1 0 249 1 1620188339
+-
+35.167.29.70
+0 1 0 229 1 1621127897
+-
+79.133.175.236
+0 1 0 241 0 0
+-
+203.133.180.21
+0 1 0 249 0 0
+-
+52.43.180.106
+0 1 0 229 1 1620730813
+-
+182.160.96.130
+0 1 0 241 0 0
+-
+185.61.154.35
+0 2 0 482 0 0
+-
+45.92.228.66
+0 2 0 458 2 1620445040
+-
+54.245.166.45
+0 1 0 229 1 1620955363
+-
+193.111.199.61
+0 2 0 458 2 1621110097
+-
+13.72.87.86
+0 8 0 2002 0 0
+-
+27.50.77.95
+0 1 0 241 0 0
+-
+167.114.173.84
+0 2 0 482 0 0
+-
+207.46.13.108
+0 1 0 229 1 1620828326
+-
+18.132.212.154
+0 1 0 229 1 1620178628
+-
+159.65.24.22
+0 1 0 229 1 1620484226
+-
+34.96.130.33
+0 1 0 229 1 1620177822
+-
+167.71.69.173
+0 2 0 482 0 0
+-
+69.12.66.211
+0 2 0 458 1 1620775765
+-
+80.253.246.19
+0 2 0 482 0 0
+-
+51.178.142.139
+0 1 0 241 0 0
+-
+173.236.194.41
+0 2 0 482 0 0
+-
+206.189.89.148
+0 1 0 241 0 0
+-
+66.211.229.28
+0 1 0 229 1 1620045768
+-
+44.238.100.201
+0 1 0 229 1 1619868293
+-
+66.248.237.136
+0 1 0 241 0 0
+-
+34.214.170.233
+0 1 0 229 1 1620096088
+-
+18.197.125.181
+0 3 0 716 1 1621095642
+-
+18.221.206.247
+0 4 0 965 1 1620439095
+-
+89.179.119.216
+0 1 0 229 1 1621131247
+-
+34.96.130.7
+0 1 0 229 1 1620436770
+-
+103.107.198.235
+0 5 0 1207 1 1620168661
+-
+54.36.148.171
+0 1 0 239 0 0
+-
+107.172.227.246
+0 4 0 1021 1 1620536617
+-
+45.129.137.249
+0 12 0 2937 0 0
+-
+13.75.237.171
+0 2 0 458 2 1620118139
+-
+34.221.237.102
+0 1 0 229 1 1620299686
+-
+154.66.198.186
+0 1 0 241 0 0
+-
+66.249.79.216
+0 1 0 239 0 0
+-
+51.38.83.105
+0 1 0 229 1 1620610506
+-
+114.108.175.187
+0 1536 0 351744 400 1621208099
+-
+158.101.108.23
+0 2 0 462 1 1620823907
+-
+185.87.26.197
+0 4 0 916 2 1620754796
+-
+80.179.128.180
+0 1 0 241 0 0
+-
+66.249.68.60
+0 1 0 239 0 0
+-
+92.118.77.10
+0 8 0 1832 2 1620977276
+-
+159.65.248.66
+0 1 0 229 1 1620115900
+-
+54.189.230.128
+0 2 0 458 2 1620720263
+-
+216.19.195.158
+0 1 0 229 1 1620377577
+-
+3.0.115.255
+0 8 0 1935 1 1620151307
+-
+223.38.74.208
+0 12 0 3452 1 1619829347
+-
+54.244.142.188
+0 1 0 229 1 1620696637
+-
+20.186.27.63
+0 1 0 241 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+161.35.154.24
+0 1 0 241 0 0
+-
+51.89.227.251
+0 2 0 458 1 1621155661
+-
+35.167.29.70
+0 1 0 229 1 1621127897
+-
+185.61.154.35
+0 1 0 241 0 0
+-
+13.72.87.86
+0 1 0 233 0 0
+-
+89.179.119.216
+0 1 0 229 1 1621131247
+-
+114.108.175.187
+0 96 0 21984 21 1621208099
+-
+# End Of Table - sites (daily)
+# -referrers- 
+https://google.ca/
+0 1
+http://jieun-daesung.icu/
+0 11
+http://jieun-daesung.icu
+0 4
+https://www.google.com/
+0 1
+- (Direct Request)
+0 1721
+http://jieun-daesung.fun/Photos/mainimage.jpg
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 1
+curl/7.19.7 (x86_64-redhat-linux-gnu) libcurl/7.19.7 NSS/3.44 zlib/1.2.3 libidn/1.18 libssh2/1.4.2
+0 1536
+l9tcpid/v1.0.0
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0
+0 3
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Firefox/17.0
+0 2
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+0 1
+lkxscan/v0.1.0 (+https://leakix.net) l9explore/v1.0.0 (+https://github.com/LeakIX/l9explore)
+0 18
+Mozilla/5.0 (Linux; Android 11; SM-A716S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.91 Mobile Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 3
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.67 Safari/537.36
+0 7
+Mozilla/5.0 (compatible; AhrefsBot/7.0; +http://ahrefs.com/robot/)
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1468.0 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.3945.117 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:77.0) Gecko/20100101 Firefox/77.0
+0 5
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/79.0.39
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 18
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36
+0 12
+curl/7.58.0
+0 4
+python-requests/2.25.1
+0 9
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 6
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 4
+Mozilla/5.0 (X11; Fedora; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.170 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 3
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:40.0) Gecko/20100101 Firefox/40.0
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.53 Safari/525.19
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+0 6
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 22
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.4; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2225.0 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 8
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 1
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 4.0; Trident/4.1)
+0 1
+Opera/8.53 (X11; Linux i686; sl-SI) Presto/2.10.173 Version/11.00
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/7.0.540.0 Safari/534.10
+0 1
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
